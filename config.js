@@ -47,9 +47,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/rakanovantara.a' //Link Instagrammu
-global.sgh = 'https://github.com/RakaNovan' //Link Githubmu
-global.sgc = '-'
+global.sig = 'https://instagram.com/rkanaii' //Link Instagrammu
+global.sgh = 'https://chat.whatsapp.com/LjHPPZ5n5EDKIUhLJBwH58' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/LjHPPZ5n5EDKIUhLJBwH58'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -59,15 +59,15 @@ global.ppulsa = '6288211090997' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882110909970' //Nomor Bot
+global.nomorbot = '6288976129942' //Nomor Bot
 global.nomorown = '6288211090997' //Nomor Owner
-global.namebot = 'Elaina.Ai' //Nama Bot
-global.nameown = 'RakaNovan' // Nama Owner
+global.namebot = 'Cheems BOT MD' //Nama Bot
+global.nameown = '©ᴍᴇʟᴠᴠ ᴅᴇᴠ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288211090997', 'Raka Novan', true] //Ganti jd nomormu sama Namamu
+  ['6288211090997', '©ᴍᴇʟᴠᴠ ᴅᴇᴠ', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,22 +99,22 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Elaina.Ai'
-global.namedoc = 'Elaina`s Bot' //Main Name Menu Document
+global.wm = '                「 ©ᴍᴇʟᴠᴠ ᴅᴇᴠ 」' //Main Watermark
+global.wm2 = 'Melv x Noyaa'
+global.wm3 = '⫹⫺ Cheems BOT '
+global.namedoc = 'cheems Bot' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
-global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '©ᴍᴇʟᴠᴠ ᴅᴇᴠ'
 global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/26b515d170f1e599f78a7.jpg'
-global.thumbbc = 'https://telegra.ph/file/05f874dc87f7e27fa8127.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://telegra.ph/file/a3e66e0fa840b08236c75.jpg'
+global.thumb = 'https://telegra.ph/file/302c6149fcc4ac7c4c01b.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/302c6149fcc4ac7c4c01b.jpg'
+global.thumbbc = 'https://telegra.ph/file/302c6149fcc4ac7c4c01b.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/302c6149fcc4ac7c4c01b.jpg'
+global.thumblvlup = 'https://telegra.ph/file/302c6149fcc4ac7c4c01b.jpg'
 global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1598c29a621.jpg',
 'https://i.pinimg.com/originals/85/4d/bb/854dbbd30304cd69f305352f0183fad0.jpg',
 'https://i.pinimg.com/originals/32/2c/a4/322ca456fa2cdec4b717895a65adfa8d.jpg',
@@ -371,9 +371,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `Melv x Noya ⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Sticker Request By '
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʙᴏᴛᴢ'
+global.packname2 = '©ᴍᴇʟᴠᴠ ᴅᴇᴠ'
 
 global.multiplier = 38 // The higher, The harder levelup
 
